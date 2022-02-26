@@ -1,2 +1,2 @@
 # OpenRTV
-3d printable ultra short traxxas stampede chassis for Ghostbusters Afterlife RTV
+3d printable ultra short traxxas stampede 4x4 chassis for Ghostbusters Afterlife RTV
