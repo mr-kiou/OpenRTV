@@ -5,7 +5,7 @@ This project isn't finished. Print and use at you own risk.
 
 Special thanks to Cole Funseth, for his precious help. 
 
-##How to print
+## How to print
 Use any filament you want. PLA or PETG will do fine.
 You will need to turn support on, 3 walls (total 1.2m wall thikness)
 This project won't require any additionnal hardware. You will use your Stampede hardware for assembly.
