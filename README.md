@@ -15,7 +15,7 @@ https://www.facebook.com/groups/3DprintedGBprops
 
 ## Support the project
 
-This project if totally free but, if you like my work and want to contribute, you can make donation to
+This project if totally free but, if you like my work and want to contribute, you can make a donation to
 https://paypal.me/quentinmachiels
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
