@@ -15,7 +15,7 @@ If you have any question or need more informations for the assembly, you can go 
 
 https://www.facebook.com/groups/3DprintedGBprops
 
-##RTV builder facebook group
+## RTV builder facebook group
 https://www.facebook.com/groups/4295963727193314
 
 ## Support the project
